@@ -1,4 +1,6 @@
 # Hi, I'm Paul 👋  
+> Aspiring **Data Analyst and Sales Engineer** with skills in SQL, Python, and data visualization. My projects showcase the ability to design databases, run queries, and deliver polished dashboards—while also highlighting technical communication and SaaS workflow experience. I’m focused on bridging **data-driven insights with client-facing problem solving** as I transition into a $75K+ analytics or sales engineering role.  
+
 
 💻 **Aspiring Data Analyst / Sales Engineer**  
 📊 SQL | Python | Data Visualization | SaaS Workflows  
