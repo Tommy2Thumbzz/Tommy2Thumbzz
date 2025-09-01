@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Paul 👋  
 
-<!--
-**Tommy2Thumbzz/Tommy2Thumbzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Aspiring Data Analyst / Sales Engineer**  
+📊 SQL | Python | Data Visualization | SaaS Workflows  
+📍 Wichita, Kansas  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- [**Bootcamp Progress Tracker**](https://github.com/Tommy2Thumbzz/Bootcamp-Progress-Tracker-Clean)  
+  SQL → Python → Matplotlib pipeline with conditional bar colors, percent labels, and PDF/PNG export.  
+  ![Progress Chart](https://raw.githubusercontent.com/Tommy2Thumbzz/Bootcamp-Progress-Tracker-Clean/main/progress_report.png)
+
+- [**NBA Stats Analysis**](#)  
+  Exploratory data analysis of player performance metrics. *(link coming soon)*  
+
+- [**Netflix Data Project**](#)  
+  Visual analysis of streaming patterns. *(link coming soon)*  
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: [linkedin.com/in/paul-dent-81254b76/](https://linkedin.com/in/paul-dent-81254b76/) 
+- GitHub: [github.com/Tommy2Thumbzz](https://github.com/Tommy2Thumbzz)
